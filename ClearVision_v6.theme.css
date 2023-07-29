@@ -10,13 +10,14 @@
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --main-color: #2196F3;
-  --hover-color: #FFC107;
+  --hover-color: #F44336;
   --success-color: #43b581;
   --danger-color: #982929;
-  --url-color: var(--main-color);
+  --url-color: #FFFFFF;
   --undefined: 0;
   --background-image: url('https://images3.alphacoders.com/132/1323165.png');
   --background-shading: 100%;
@@ -31,17 +32,17 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgb(53,53,53,0.68);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://mfiles.alphacoders.com/999/999282.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
+  --user-popout-brightness: 108%;
   --user-popout-contrast: 100%;
-  --user-popout-saturation: 100%;
+  --user-popout-saturation: 122%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 1px;
   --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;

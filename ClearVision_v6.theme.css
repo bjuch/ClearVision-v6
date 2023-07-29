@@ -85,9 +85,9 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --.message.mentioned .message-text {
+  --.message.mentioned .message-text 
   background: rgba(255, 193, 7, 1) !important;
-}
+
 }
 
 /* Any custom CSS below here */

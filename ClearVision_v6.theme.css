@@ -89,4 +89,6 @@
 
 /* Any custom CSS below here */
 
-
+.theme-dark .message.mentioned .message-text {
+  background: rgba(255, 193, 7, 1) !important;
+}
